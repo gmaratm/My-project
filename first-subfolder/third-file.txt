@@ -1,1 +1,3 @@
 Text third file
+
+New text for second commit in new-featur
