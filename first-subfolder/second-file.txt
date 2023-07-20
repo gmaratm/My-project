@@ -3,3 +3,4 @@ Text second file
 New text for second commit
 
 New text for third commit for master
+New text for first commit in new-featur
