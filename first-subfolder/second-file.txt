@@ -1,3 +1,5 @@
 Text second file
 
 New text for second commit
+
+New text for first commit in new-featur
